@@ -1,0 +1,27 @@
+body{
+  font-family: Helvetica;/*Changes font of
+  entire website to Helvetica*/
+  margin: 0px 10% 0 10%;/*remember top,right,bottom,left*/
+  color: 	#9400D3;
+}
+
+h1{
+color: #4CC3D9;
+text-align: center;
+text-shadow: 1px 0 0 #0000b3, 0 -1px 0 #0000b3, 0 1px 0 #0000b3, -1px 0 0 #0000b3;
+font-size: 40px;
+}
+
+.monkeys{
+ border: 2px solid #0000b3;
+ background-color: #4CC3D9;
+ margin: 0px 50px 0px 50px;
+}
+
+.monkeys2{
+  margin: 20px 10px 20px 40px;
+}
+
+ul{
+  list-style-type: none;
+}
